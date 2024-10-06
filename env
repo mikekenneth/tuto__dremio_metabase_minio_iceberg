@@ -1,0 +1,17 @@
+# Metabase
+ADMIN_EMAIL=metabase_user@local.home
+ADMIN_USER=metabase_admin
+ADMIN_PASSWORD=metabase_admin123
+
+
+# Dremio
+ADMIN_EMAIL=dremio_admin@local.home
+ADMIN_USER=dremio_admin
+ADMIN_PASSWORD=dremio_admin123
+
+
+# MinIO
+MINO_ACCESS_KEY=voQ50FVMQSjF4E7jm36v
+MINO_SECRET_KEY=6DMYl3xVU34neWS0RDckSut6JRkoVDEwKZkLoqqK
+fs.s3a.endpoint=minio:9000
+fs.s3a.path.style.access=true
